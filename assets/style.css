@@ -3,4 +3,14 @@ align-items: flex-end;
 float: left;
 
 
-}
+};
+
+.whitecomputerdeskimg {
+    height: 800px;
+    width: 100%;
+  margin-bottom: 25px;
+  background-size: cover;
+  background: url(https://lh3.googleusercontent.com/yTjXjk6063sLmK7Bk3D8vo_HaY3bRwVTzKZ_RsldtVn0qlTXSTJSP81NaoRlXDf01KUs4sDke8jliZqmvRK4mEq3wL8TiLG4HCXnUNQoF3esvQGY61fsLF8Sd76QTmFTJWJ3d4ccJw=w2400);
+  background-repeat: no-repeat;
+  
+};
