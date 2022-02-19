@@ -12,12 +12,16 @@ border: 6px solid black;
 
 }; */
 
-.mt-5 {
+/* .mt-5 {
     margin-top: ($spacer * 40) !important;
-  }
+  }; */
 
 .hgt {
 min-height: 50vh;
 min-width: 70vw;
-}
+};
+
+
+
+
   
