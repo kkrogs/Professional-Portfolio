@@ -21,8 +21,54 @@ min-height: 50vh;
 min-width: 75vw;
 };
 
+.ftr {
+  padding: 10px;
+  text-align: center;
+  background: lightgray;
+  color: #fff;
+  display: flex;
+};
+
+
+
+
+
 /* body {
 
   background-color: bg-light;
 }; */
+
+/* .mediaQ {
+  flex-direction: row;
+  flex-wrap: wrap
+
+}; */
+
+
   
+/* @media screen and (max-width: 575.98px) {
+  div .row {
+
+    flex-direction: column !important;
+    flex-wrap: wrap !important;
+    /* d-flex flex-column bd-highlight */
+  
+   /* };
+
+
+
+}; */
+
+/* div nth:child(11){
+  flex-direction: column !important;
+  flex-wrap: wrap !important;
+
+
+}; */
+
+/* .row {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: auto;
+}; */
+
