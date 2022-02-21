@@ -16,6 +16,15 @@ border: 6px solid black;
     margin-top: ($spacer * 40) !important;
   }; */
 
+.imgA {
+  min-height: 50vh;
+  min-width: 75vw;
+  background-color: #e5e5f7;
+opacity: 0.8;
+background: linear-gradient(135deg, #444cf755 25%, transparent 25%) -12px 0/ 24px 24px, linear-gradient(225deg, #444cf7 25%, transparent 25%) -12px 0/ 24px 24px, linear-gradient(315deg, #444cf755 25%, transparent 25%) 0px 0/ 24px 24px, linear-gradient(45deg, #444cf7 25%, #e5e5f7 25%) 0px 0/ 24px 24px;
+
+}
+
 .hgt {
 min-height: 50vh;
 min-width: 75vw;
