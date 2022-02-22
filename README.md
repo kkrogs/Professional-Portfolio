@@ -20,3 +20,20 @@ In the CONTACT section, you are brought to a nav bar at the bottom of the web pa
 
 ![image](https://user-images.githubusercontent.com/95041311/155043283-c5932e14-6559-4534-86bd-7a16908c609d.png)
 
+This website is also a responsive layout so minimizing the size to a tablet, iphone, or other standard phone device will still cause it to have a proper layout. Here is an example of what the layout looks like on an iPad air:
+
+![image](https://user-images.githubusercontent.com/95041311/155043516-bd4c080b-b453-4ead-8aba-aba94fea50b2.png)
+
+METHODOLOGY:
+I used Bootstrap 4.3.1 CSS on my wep page. Bootstrap already includes responsive layouts which helped greatly to ensure that my website is properly formatted on all standard devices. The columns, which would be anything labeled col in the html, have responsiveness built in already. Additionally, I made the images clickable to the deployed application is because it would showcase my knowledge of HTML and usage of the HREF element.
+
+![image](https://user-images.githubusercontent.com/95041311/155044006-acb56e78-7b59-4816-8325-9c29cf539853.png)
+
+Here is
+
+
+REFERENCES:
+
+Bootstrap 4.3.1 CSS File: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
+Bootstrap Website: https://getbootstrap.com/docs/4.3/getting-started/download/
+
