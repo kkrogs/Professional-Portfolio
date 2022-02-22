@@ -25,11 +25,19 @@ This website is also a responsive layout so minimizing the size to a tablet, iph
 ![image](https://user-images.githubusercontent.com/95041311/155043516-bd4c080b-b453-4ead-8aba-aba94fea50b2.png)
 
 METHODOLOGY:
-I used Bootstrap 4.3.1 CSS on my wep page. Bootstrap already includes responsive layouts which helped greatly to ensure that my website is properly formatted on all standard devices. The columns, which would be anything labeled col in the html, have responsiveness built in already. Additionally, I made the images clickable to the deployed application is because it would showcase my knowledge of HTML and usage of the HREF element.
+I used Bootstrap 4.3.1 CSS on my wep page. Bootstrap already includes responsive layouts which helped greatly to ensure that my website is properly formatted on all standard devices. The columns, which would be anything labeled col in the html, have responsiveness built in already. Additionally, I made the images clickable to the deployed application is because it would showcase my knowledge of HTML and usage of the HREF element. Lastly, to override the Bootstrap 4.3.1 CSS, I had to use custom inline CSS styling.
 
 ![image](https://user-images.githubusercontent.com/95041311/155044006-acb56e78-7b59-4816-8325-9c29cf539853.png)
 
-Here is
+Inline custom CSS styling:
+
+![image](https://user-images.githubusercontent.com/95041311/155044240-857a2cd1-7bca-4dc3-884a-e6797bf927aa.png)
+
+
+Here is an image of my entire website:
+
+![image](https://user-images.githubusercontent.com/95041311/155044103-6e4fe733-6331-42e6-af4f-7336a7c8314f.png)
+
 
 
 REFERENCES:
